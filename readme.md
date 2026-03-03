@@ -207,45 +207,41 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
 ### Enterprise & Competition Projects
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%">
+      <h4>🚀 <a href="https://www.panapdf.com/">PanaPDF</a></h4>
+      <a href="https://www.panapdf.com/" target="_blank">
+        <img src="./images/1.png" width="100%" alt="PanaPDF Project Preview">
+      </a>
+      <p><strong>Tech Stack:</strong> Python, React, Node.js, Next.js</p>
+      <p><strong>Description:</strong> A production ready application having many pdf alteration tools embedded. Currently implementing AI-powered features to enhance document automation, smart processing, and intelligent user workflows.</p>
+    </td>
 
-#### 🚀 [PanaPDF](https://www.panapdf.com/)
+    <td width="50%">
+      <h4>🎯 <a href="https://mansolhab.com/" target="_blank">Mansolhab</a></h4>
+      <a href="https://mansolhab.com/" target="_blank">
+        <img src="./images/2.png" alt="Mansolhab Project Screenshot" style="max-width:100%; height:auto;">
+      </a>
+      <p><strong>Tech Stack:</strong> WordPress</p>
+      <p><strong>Description:</strong> A production-ready web application (WordPress) for a UK-based training center in Pakistan.</p>
+    </td>
+  </tr>
 
-<a href="https://www.panapdf.com/" target="_blank">
-  <img src="./images/1.png" width="100%" alt="PanaPDF Project Preview">
-</a>
+  <tr>
+    <td width="50%">
+      <h4>🤖 <a href="https://github.com/Abdullah-9862873/CV-Generator/tree/main/cv-generator" target="_blank">AI Based CV Generator</a></h4>
+      <a href="https://github.com/Abdullah-9862873/CV-Generator/tree/main/cv-generator" target="_blank">
+        <img src="./images/3" alt="CV Generator Screenshot 1" style="max-width:100%; height:auto;">
+      </a>
+      <p><strong>Tech Stack:</strong> Gemini 2.5 Flash, Tesseract.js, PyPDF, Mammoth, Next.js, React, TypeScript, Zustand, Python</p>
+      <p><strong>Description:</strong> Vision to make the image or PDF uploaded CV editable for free.</p>
+    </td>
 
-**Tech Stack:** Python, React, Node.js, Next.js  
-
-**Description:**  
-A production ready application having many pdf alteration tools embedded 
-Currently implementing AI-powered features to enhance document automation, smart processing, and intelligent user workflows.
-
-</td>
-<td width="50%">
-  <h4>🎯 <a href="https://mansolhab.com/" target="_blank">Mansolhab</a></h4>
-  <a href="https://mansolhab.com/" target="_blank">
-    <img src="./images/2.png" alt="Mansolhab Project Screenshot" style="max-width:100%; height:auto;">
-  </a>
-  <p><strong>Tech Stack:</strong> WordPress</p>
-  <p><strong>Description:</strong> A production-ready web application (WordPress) for a UK-based training center in Pakistan.</p>
-</td>
-
-</tr>
-<tr>
-<td width="50%">
-
-<td width="50%">
-  <h4>🤖 <a href="https://github.com/Abdullah-9862873/CV-Generator/tree/main/cv-generator" target="_blank">AI Based CV Generator</a></h4>
-  
-  <a href="https://github.com/Abdullah-9862873/CV-Generator/tree/main/cv-generator" target="_blank">
-    <img src="./images/3" alt="CV Generator Screenshot 1">
-  </a>
-
-  <p><strong>Tech Stack:</strong> Gemini 2.5 Flash, Tesseract.js, PyPDF, Mammoth, Next.js, React, TypeScript, Zustand, Python</p>
-  <p><strong>Description:</strong> Vision to make the image or PDF uploaded CV editable for free.</p>
-</td>
+    <td width="50%">
+      <!-- You can leave this empty or add another project -->
+    </td>
+  </tr>
+</table>
 
 ---
 
