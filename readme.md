@@ -239,47 +239,12 @@ Currently implementing AI-powered features to enhance document automation, smart
 <td width="50%">
   <h4>🤖 <a href="https://github.com/Abdullah-9862873/CV-Generator/tree/main/cv-generator" target="_blank">AI Based CV Generator</a></h4>
   
-  <!-- Slideshow Container -->
-  <div class="slideshow">
-    <img src="./images/3.1" alt="CV Generator Screenshot 1">
-    <img src="./images/3.2" alt="CV Generator Screenshot 2">
-    <img src="./images/3.3" alt="CV Generator Screenshot 3">
-  </div>
+  <a href="https://github.com/Abdullah-9862873/CV-Generator/tree/main/cv-generator" target="_blank">
+    <img src="./images/3" alt="CV Generator Screenshot 1">
+  </a>
 
   <p><strong>Tech Stack:</strong> Gemini 2.5 Flash, Tesseract.js, PyPDF, Mammoth, Next.js, React, TypeScript, Zustand, Python</p>
   <p><strong>Description:</strong> Vision to make the image or PDF uploaded CV editable for free.</p>
-
-  <style>
-    .slideshow {
-      position: relative;
-      width: 100%;
-      max-width: 400px; /* optional: limit image size */
-      height: auto;
-      overflow: hidden;
-    }
-
-    .slideshow img {
-      position: absolute;
-      width: 100%;
-      height: auto;
-      top: 0;
-      left: 0;
-      opacity: 0;
-      animation: fade 9s infinite;
-    }
-
-    .slideshow img:nth-child(1) { animation-delay: 0s; }
-    .slideshow img:nth-child(2) { animation-delay: 3s; }
-    .slideshow img:nth-child(3) { animation-delay: 6s; }
-
-    @keyframes fade {
-      0% { opacity: 0; }
-      10% { opacity: 1; }
-      30% { opacity: 1; }
-      40% { opacity: 0; }
-      100% { opacity: 0; }
-    }
-  </style>
 </td>
 <td width="50%">
 
