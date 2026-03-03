@@ -236,7 +236,7 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
 
 #### 🤖 [AI Based CV Generator](https://github.com/Abdullah-9862873/CV-Generator/tree/main/cv-generator)
 <a href="https://github.com/Abdullah-9862873/CV-Generator/tree/main/cv-generator" target="_blank">
-  <img src="./images/3.1" width="100%" alt="CV Generator Screenshot 1">
+  <img src="./images/3" width="100%" alt="CV Generator Screenshot 1">
 </a>
 
 **Tech Stack:** Gemini 2.5 Flash, Tesseract.js, PyPDF, Mammoth, Next.js, React, TypeScript, Zustand, Python  
@@ -244,7 +244,15 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
 
 </td>
 <td width="50%">
-<!-- Optional empty cell for symmetry or add future project -->
+
+#### 🤖 [VoiceBite](https://github.com/Abdullah-9862873/Devpost-hackathon)
+<a href="https://github.com/Abdullah-9862873/Devpost-hackathon" target="_blank">
+  <img src="./images/4" width="100%" alt="VoiceBite Project Screenshot">
+</a>
+
+**Tech Stack:** Gemini 3, Python, React.js, Express.js, Node.js, Jupyter Notebook, Context API  
+**Description:** AI-based application to order and navigate food items using voice.
+
 </td>
 </tr>
 </table>
