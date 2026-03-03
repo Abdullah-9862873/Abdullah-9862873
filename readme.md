@@ -189,7 +189,7 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
 <a href="https://www.linkedin.com/in/abdullah-sultan-923883254/">
 <img src="https://img.shields.io/badge/Big_Data_&_Data_Science-Hadoop_Ecosystem-0A66C2?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Big Data Certificate"/>
 </a>
-<br><b>Arfa Kareem Foundation (2021)</b>
+<br><b>Arfa Kareem (2021)</b>
 </td>
 
 <td width="20%" align="center">
@@ -202,4 +202,14 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
 </tr>
 </table>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danishmustafa86&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danishmustafa86&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=danishmustafa86&theme=algolia&hide_border=true" />
+</p>
 
