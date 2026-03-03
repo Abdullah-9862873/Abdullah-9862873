@@ -202,6 +202,91 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
 </tr>
 </table>
 
+## 🚀 Featured AI/ML Projects
+
+### Enterprise & Competition Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🚀 [PanaPDF](https://www.panapdf.com/)
+
+<a href="https://www.panapdf.com/" target="_blank">
+  <img src="./images/1.png" width="100%" alt="PanaPDF Project Preview">
+</a>
+
+**Tech Stack:** Python, React, Node.js, Next.js  
+
+**Description:**  
+PanaPDF is a modern web-based PDF management platform focused on productivity and document intelligence.  
+Currently implementing AI-powered features to enhance document automation, smart processing, and intelligent user workflows.
+
+</td>
+<td width="50%">
+
+#### 🎯 [Hack This Fall 2024 - GenAI Platform](https://github.com/HassanMehmood413/GenAi_Hackathon-back-)
+<a href="https://github.com/HassanMehmood413/GenAi_Hackathon-back-" target="_blank">
+  <img src="https://i.ibb.co/hmMfv5L/Hack-This-Fall-36-Hours-Virtual-2024.png" width="100%" alt="Hack This Fall">
+</a>
+
+**Tech Stack:** OpenAI, Python, FastAPI, React  
+**Description:** 36-hour hackathon project building generative AI solutions
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🤖 [AI Agent System](https://github.com/danishmustafa86/AI-AGENT)
+<a href="https://github.com/danishmustafa86/AI-AGENT" target="_blank">
+  <img src="https://i.ibb.co/Xb7btv7/Screenshot-2024-09-16-072758.png" width="100%" alt="AI Agent System">
+</a>
+
+**Tech Stack:** LangGraph, CrewAI, OpenAI SDK, Python  
+**Description:** Multi-agent system for autonomous task execution and workflow automation
+
+</td>
+<td width="50%">
+
+#### 🎙️ [AI Audio Assistant](https://github.com/HassanMehmood413/AI-Audio-Assistant)
+<a href="https://github.com/HassanMehmood413/AI-Audio-Assistant" target="_blank">
+  <img src="https://i.ibb.co/4d8GCBv/Screenshot-2024-10-12-085615.png" width="100%" alt="AI Audio Assistant">
+</a>
+
+**Tech Stack:** Whisper API, LangChain, Speech Recognition  
+**Description:** Voice-powered AI assistant with natural language processing capabilities
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 😊 [AI Emotion Analysis Platform](https://github.com/HassanMehmood413/AI_Emotions_Analysis)
+<a href="https://github.com/HassanMehmood413/AI_Emotions_Analysis" target="_blank">
+  <img src="https://i.ibb.co/F00H0km/Screenshot-2024-10-21-235934.png" width="100%" alt="AI Emotion Analysis">
+</a>
+
+**Tech Stack:** TensorFlow, OpenCV, Python, React  
+**Description:** Real-time emotion detection and sentiment analysis using computer vision
+
+</td>
+<td width="50%">
+
+#### ✍️ [AI Blog Generator](https://github.com/HassanMehmood413/AI-blogs)
+<a href="https://github.com/HassanMehmood413/AI-blogs" target="_blank">
+  <img src="https://i.ibb.co/HKsdSvt/Screenshot-2024-10-22-000235.png" width="100%" alt="AI Blog Generator">
+</a>
+
+**Tech Stack:** GPT-4, RAG, Vector DB, Next.js  
+**Description:** Intelligent content generation platform with SEO optimization and RAG implementation
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
