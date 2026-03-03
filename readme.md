@@ -150,3 +150,14 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
     
 </tr>
 </table>
+
+## 📈 Impact & Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems_Solved-180+-success?style=for-the-badge&logo=leetcode" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Students_Mentored-500+-blue?style=for-the-badge&logo=google-classroom" alt="Students Mentored"/>
+  <img src="https://img.shields.io/badge/Hackathons-3+-orange?style=for-the-badge&logo=hackerrank" alt="Hackathons"/>
+  <img src="https://img.shields.io/badge/GitHub_Stars-⭐9-yellow?style=for-the-badge&logo=github" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/badge/Teaching_Hours-50+-green?style=for-the-badge&logo=udemy" alt="Teaching Hours"/>
+</p>
+
