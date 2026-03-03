@@ -255,7 +255,6 @@ Building scalable, efficient, and impactful software solutions while empowering 
 <p align="center">
   <i>⭐ From <a href="https://github.com/Abdullah-9862873">Abdullah-9862873</a> with passion for technology and education</i>
   <br>
-  <sub>Last Updated: October 2025 | Built with ❤️ and Markdown</sub>
 </p>
 
 <p align="center">
