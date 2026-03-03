@@ -205,11 +205,11 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danishmustafa86&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danishmustafa86&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdullah9862873&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abdullah9862873&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=danishmustafa86&theme=algolia&hide_border=true" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah9862873&theme=algolia&hide_border=true" />
 </p>
 
