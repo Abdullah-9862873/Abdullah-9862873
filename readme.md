@@ -246,43 +246,6 @@ Currently implementing AI-powered features to enhance document automation, smart
   <p><strong>Tech Stack:</strong> Gemini 2.5 Flash, Tesseract.js, PyPDF, Mammoth, Next.js, React, TypeScript, Zustand, Python</p>
   <p><strong>Description:</strong> Vision to make the image or PDF uploaded CV editable for free.</p>
 </td>
-<td width="50%">
-
-#### 🎙️ [AI Audio Assistant](https://github.com/HassanMehmood413/AI-Audio-Assistant)
-<a href="https://github.com/HassanMehmood413/AI-Audio-Assistant" target="_blank">
-  <img src="https://i.ibb.co/4d8GCBv/Screenshot-2024-10-12-085615.png" width="100%" alt="AI Audio Assistant">
-</a>
-
-**Tech Stack:** Whisper API, LangChain, Speech Recognition  
-**Description:** Voice-powered AI assistant with natural language processing capabilities
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 😊 [AI Emotion Analysis Platform](https://github.com/HassanMehmood413/AI_Emotions_Analysis)
-<a href="https://github.com/HassanMehmood413/AI_Emotions_Analysis" target="_blank">
-  <img src="https://i.ibb.co/F00H0km/Screenshot-2024-10-21-235934.png" width="100%" alt="AI Emotion Analysis">
-</a>
-
-**Tech Stack:** TensorFlow, OpenCV, Python, React  
-**Description:** Real-time emotion detection and sentiment analysis using computer vision
-
-</td>
-<td width="50%">
-
-#### ✍️ [AI Blog Generator](https://github.com/HassanMehmood413/AI-blogs)
-<a href="https://github.com/HassanMehmood413/AI-blogs" target="_blank">
-  <img src="https://i.ibb.co/HKsdSvt/Screenshot-2024-10-22-000235.png" width="100%" alt="AI Blog Generator">
-</a>
-
-**Tech Stack:** GPT-4, RAG, Vector DB, Next.js  
-**Description:** Intelligent content generation platform with SEO optimization and RAG implementation
-
-</td>
-</tr>
-</table>
 
 ---
 
