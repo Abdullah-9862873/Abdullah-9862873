@@ -224,16 +224,14 @@ Currently implementing AI-powered features to enhance document automation, smart
 
 </td>
 <td width="50%">
-
-#### 🎯 [Hack This Fall 2024 - GenAI Platform](https://github.com/HassanMehmood413/GenAi_Hackathon-back-)
-<a href="https://github.com/HassanMehmood413/GenAi_Hackathon-back-" target="_blank">
-  <img src="https://i.ibb.co/hmMfv5L/Hack-This-Fall-36-Hours-Virtual-2024.png" width="100%" alt="Hack This Fall">
-</a>
-
-**Tech Stack:** OpenAI, Python, FastAPI, React  
-**Description:** 36-hour hackathon project building generative AI solutions
-
+  <h4>🎯 <a href="https://mansolhab.com/" target="_blank">Mansolhab</a></h4>
+  <a href="https://mansolhab.com/" target="_blank">
+    <img src="./images/2.png" alt="Mansolhab Project Screenshot" style="max-width:100%; height:auto;">
+  </a>
+  <p><strong>Tech Stack:</strong> WordPress</p>
+  <p><strong>Description:</strong> A production-ready web application (WordPress) for a UK-based training center in Pakistan.</p>
 </td>
+
 </tr>
 <tr>
 <td width="50%">
