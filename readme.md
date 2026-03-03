@@ -213,3 +213,52 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-9862873&theme=algolia&hide_border=true" />
 </p>
 
+## 💡 What Drives Me
+
+Building scalable, efficient, and impactful software solutions while empowering others through education. I thrive at the intersection of competitive programming, full-stack development, and cutting-edge AI technologies. My goal is to contribute to innovative projects that solve real-world problems and create positive impact.
+
+---
+
+## 📫 Let's Connect & Collaborate
+
+<p align="center">
+  <b>Open to:</b> Full-time Software Engineering Roles • AI/ML Engineering Positions • Freelance Projects • Technical Mentorship • Open Source Collaborations
+</p>
+
+<p align="center">
+  <a href="https://abdullah-sultan.surge.sh/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-4285F4?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-sultan-923883254/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ag9862873@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/u/Abdullah9862873/">
+    <img src="https://img.shields.io/badge/💻_LeetCode-Follow-FFA116?style=for-the-badge" alt="LeetCode"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true" alt="Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <b>💬 "Code is not just about solving problems—it's about creating solutions that matter."</b>
+</p>
+
+<p align="center">
+  <i>⭐ From <a href="https://github.com/Abdullah-9862873">Abdullah-9862873</a> with passion for technology and education</i>
+  <br>
+  <sub>Last Updated: October 2025 | Built with ❤️ and Markdown</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Abdullah-9862873?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/Abdullah-9862873?label=Stars&style=social" alt="GitHub Stars"/>
+</p>
