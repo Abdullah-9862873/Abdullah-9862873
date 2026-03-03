@@ -56,12 +56,13 @@ Based on the inspiration profile from Danish Mustafa, here's your segmented impl
 ```markdown
 ## 👨‍💻 About Me
 
-[Your introduction here - mention your role, specializations, key achievements]
+Software Engineer specializing in Full-Stack Development, AI/ML Engineering, and Data Structures & Algorithms. Proven track record of building scalable, production-ready applications and mentoring engineering talent globally. Active contributor to competitive programming platforms with 180+ problems solved and participant in international hackathons.
 
 ### 🎯 Core Competencies
 ```
-✓ Your Skill 1              ✓ Your Skill 2
-✓ Your Skill 3             ✓ Your Skill 4
+✓ Algorithm Design & Optimization    ✓ Full-Stack Web Development      ✓ AI Agent Development
+✓ Generative AI & LLM Integration   ✓ Technical Training & Mentorship  ✓ System Design
+✓ Competitive Programming           ✓ API Design & Development
 ```
 ```
 
@@ -82,6 +83,64 @@ Based on the inspiration profile from Danish Mustafa, here's your segmented impl
 - Include specific numbers (problems solved, students mentored, etc.)
 - Add links to competitions/events where applicable
 
+
+🎓 Academic Excellence & Teaching
+
+Mentored 500+ students in foundational Computer Science under the Government of Pakistan’s Punjab Skills Development Fund (PSDF) program.
+
+Delivered structured training in:
+
+Data Structures & Algorithms
+
+MERN Stack Development
+
+Problem Solving & Competitive Programming
+
+Led multiple student teams to victory in hackathons across Punjab, fostering innovation, teamwork, and real-world project execution.
+
+💼 Professional Experience
+iCodeGuru | Technical Trainer & Curriculum Developer
+
+Designed and delivered comprehensive training programs in Data Structures & Algorithms
+
+Mentored 100+ students with an 85%+ placement success rate
+
+Developed industry-aligned hands-on projects, coding challenges, and structured learning paths
+
+Assisted lecturers in the development and structuring of curriculum for:
+
+LangChain
+
+Retrieval-Augmented Generation (RAG) Systems
+
+AI Agent Development
+
+Guided students in building production-ready applications with modern AI workflows
+
+💻 Competitive Programming
+LeetCode | 180+ Problems Solved
+
+Strong foundation in algorithms, data structures, and optimized problem-solving
+
+Consistent practice in pattern recognition and complexity analysis
+
+Advent of Code 2024 | 50 Stars ⭐
+
+Successfully completed all 25 days of challenging algorithmic puzzles
+
+Demonstrated consistency, discipline, and advanced debugging skills
+
+
+🚀 Hackathons & Innovation
+International Hackathons (LabLab.ai & Devpost)
+
+Built AI-powered applications solving real-world problems
+
+Experience in rapid prototyping and agile development cycles
+
+Worked in cross-functional and international teams
+
+Focused on scalable architectures and intelligent automation systems
 ---
 
 ## Segment 4: Technical Expertise
