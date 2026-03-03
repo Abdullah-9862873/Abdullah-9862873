@@ -161,3 +161,45 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
   <img src="https://img.shields.io/badge/Teaching_Hours-50+-green?style=for-the-badge&logo=udemy" alt="Teaching Hours"/>
 </p>
 
+## 🎓 Certifications & Achievements
+
+<table>
+<tr>
+
+<td width="20%" align="center">
+<a href="https://leetcode.com/u/Abdullah9862873/">
+<img src="https://img.shields.io/badge/LeetCode-180+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<br><b>Active Contributor</b>
+</td>
+
+<td width="20%" align="center">
+<img src="https://img.shields.io/badge/Advent_Of_Code-50_Stars-FFD700?style=for-the-badge&logo=adventofcode&logoColor=black" alt="Advent of Code"/>
+<br><b>2024 Completion</b>
+</td>
+
+<td width="20%" align="center">
+<a href="https://lablab.ai/u/@Abdullah9862873">
+<img src="https://img.shields.io/badge/LabLab.ai-3+_Hackathons-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" alt="LabLab"/>
+</a>
+<br><b>AI Innovator</b>
+</td>
+
+<td width="20%" align="center">
+<a href="https://www.linkedin.com/in/abdullah-sultan-923883254/">
+<img src="https://img.shields.io/badge/Big_Data_&_Data_Science-Hadoop_Ecosystem-0A66C2?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Big Data Certificate"/>
+</a>
+<br><b>Arfa Kareem Foundation (2021)</b>
+</td>
+
+<td width="20%" align="center">
+<a href="https://www.linkedin.com/posts/abdullah-sultan-923883254_ielts-achievement-gratitude-activity-7273028100425154562-UFsu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7HAWsBmg3oAJTMJWVyQuwjSu7lx7fGylw">
+<img src="https://img.shields.io/badge/IELTS-7.0/9.0_Bands-00A86B?style=for-the-badge&logo=readthedocs&logoColor=white" alt="IELTS"/>
+</a>
+<br><b>English Proficiency</b>
+</td>
+
+</tr>
+</table>
+
+
