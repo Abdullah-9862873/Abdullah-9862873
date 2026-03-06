@@ -268,7 +268,7 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-9862873&theme=algolia&hide_border=true" />
+  <img width="98%" src="https://streak-stats.demolab.com/?user=Abdullah-9862873&theme=algolia&hide_border=true" />
 </p>
 
 ## 💡 What Drives Me
