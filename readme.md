@@ -102,26 +102,24 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
 </p>
 
     
 <td width="50%" valign="top">
 
-### 🤖 AI/ML & Agent Frameworks
+### 🤖 AI / ML & Agent Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graph&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI SDK"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
   <img src="https://img.shields.io/badge/RAG-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Vector_DB-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector Database"/>
 </p>
 
-    
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
