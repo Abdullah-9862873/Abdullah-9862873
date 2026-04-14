@@ -37,6 +37,9 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
 ## 🏆 Key Achievements
 
 ### 🎓 Academic Excellence & Teaching
+- **Section Leader Code in Place 2026 | Stanford University
+  - Teaching programming to a global cohort of students, focusing on problem solving, building confidence, and helping learners grow comfortable with core CS concepts
+
 - **Punjab Skills Development Fund (PSDF)** | Government of Pakistan
   - Mentored 500+ students in foundational Computer Science concepts
   - Delivered structured training in Data Structures & Algorithms, MERN Stack Development, and Problem Solving
