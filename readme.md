@@ -37,7 +37,7 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
 ## 🏆 Key Achievements
 
 ### 🎓 Academic Excellence & Teaching
-- **Section Leader Code in Place 2026 | Stanford University
+- **Section Leader Code in Place 2026** | Stanford University
   - Teaching programming to a global cohort of students, focusing on problem solving, building confidence, and helping learners grow comfortable with core CS concepts
 
 - **Punjab Skills Development Fund (PSDF)** | Government of Pakistan
@@ -167,6 +167,21 @@ Software Engineer specializing in **Full-Stack Development**, **AI/ML Engineerin
 
 <table>
 <tr>
+
+<td width="20%" align="center">
+<a href="https://www.coursera.org/account/accomplishments/specialization/PVKPUG4LWEMB">
+<img src="https://img.shields.io/badge/IBM_AI_Engineering-13_Courses-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI"/>
+</a>
+<br><b>IBM AI Engineering Specialized</b>
+</td>
+
+<td width="25%" align="center">
+<a href="https://certificates.cs50.io/566e3a4c-1473-42e6-9dd7-98bcb3d552f6.pdf?size=letter">
+<img src="https://img.shields.io/badge/CS50x_Puzzle_Day-2026-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50x Puzzle Day"/>
+</a>
+<br><b>Harvard CS50x</b>
+<br><sub>Puzzle Day Participation</sub>
+</td>
 
 <td width="20%" align="center">
 <a href="https://leetcode.com/u/Abdullah9862873/">
